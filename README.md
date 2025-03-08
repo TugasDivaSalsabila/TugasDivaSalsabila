@@ -6,9 +6,11 @@
 ## 🚀 About Me
 - 🎓 I’m currently studying *IT* at *Universitas Sumatera Utara*  
 ## 🔥 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,github,vscode,js" />
-</p>
+- HTML  
+- CSS  
+- GitHub  
+- VS Code  
+- JavaScript  
 
 ## 🌍 You Can Reach Me On:
 <p align="left">
