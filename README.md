@@ -3,14 +3,37 @@
 <!--
 **TugasDivaSalsabila/TugasDivaSalsabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there, I'm Diva Salsabila👋</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;AI+&+Data+Enthusiast+🤖;Open+Source+Contributor+🌍">
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 I’m currently studying *IT* at *Universitas Sumatera Utara*  
+## 🔥 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,git,github,vscode,figma" />
+</p>
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+## 🌍 Let's Connect!
+<p align="center">
+  <a href="www.linkedin.com/in/reka-oktavia-br-sihombing-3a5760342" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
